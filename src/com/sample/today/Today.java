@@ -10,6 +10,7 @@ public class Today {
 		//Test message
 		
 		boolean isMorning() {
+			//no comments
 			return true;
 		}
 		
