@@ -9,6 +9,10 @@ public class Today {
 		System.out.println(Calendar.getInstance().getTime().toString());
 		//Test message
 		
+		boolean isMorning() {
+			return false;
+		}
+		
 	}
 
 }
