@@ -10,6 +10,10 @@ public class Today {
 		//Test message
 		
 		boolean isMorning() {
+<<<<<<< HEAD
+=======
+			//no comments again
+>>>>>>> branch 'FEATURE_2' of https://github.com/subharaman/Today.git
 			return true;
 		}
 		
